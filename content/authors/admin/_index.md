@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emma Vitikainen
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Ecology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Helsinki
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include evolutionary ecology of cooperative behaviours, social evolution and early life effects on life history strategies  
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social evolution
+- Behavioural ecology
+- Early life effects 
+- Social effects on health and ageing
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - PhD in Evolutionary biology. Thesis: Causes and consequences of inbreeding in the ant Formica exsecta 
+    institution: University of Helsinki
+    year: 2010
+  - MSc in Ecology and evolution. 
+    year: 2006
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +44,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/emmaviti
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Emma Vitikainen is a professor of Ecology at the Organismal and Evolutionary Biology Research program, University of Helsinki. Her research interests include evolutionary ecology of social behaviour, particularly impacts of early life environment on patterns of health and senescence, and ultimately on life history evolution in human and non-human animals. She works on a number of model systems, including wild natural populations of banded mongooses in Uganda, and long term study of ant colonies in the coast of Finland. She is also part of a research team Finnbrain looking at effects of maternal welfare on child development in a Finnish cohort study. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+
