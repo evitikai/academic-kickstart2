@@ -12,7 +12,7 @@ tags:
   - social care
 external_link: www.emmavitikainen.org
 image:
-  filename: featured
-  focal_point: Smart
+  filename: p1100785.jpg
+  focal_point: topright
   preview_only: false
 ---
